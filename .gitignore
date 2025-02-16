@@ -1,0 +1,4 @@
+*.json
+*interface.py
+*main.py
+*__pycache__/
